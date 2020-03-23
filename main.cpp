@@ -145,6 +145,7 @@ car.carshed();
 car.slipped();
 //  action 3: car was washed....
 car.washed();
+car.washed();
 
 
 #endif
